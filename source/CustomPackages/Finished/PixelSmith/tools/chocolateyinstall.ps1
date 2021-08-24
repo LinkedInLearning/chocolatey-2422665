@@ -19,7 +19,7 @@ $packageArgs = @{
 
 }
 
-Install-ChocolateyPackage @packageArgs
+
 Install-ChocolateyInstallPackage @packageArgs 
 
 
