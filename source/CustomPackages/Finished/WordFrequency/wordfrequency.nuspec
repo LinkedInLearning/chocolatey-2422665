@@ -24,16 +24,14 @@
     <!-- projectUrl is required for the community feed -->
     <projectUrl>https://_Software_Location_REMOVE_OR_FILL_OUT_</projectUrl>
     <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/wordfrequency.png</iconUrl>-->
-    <copyright>2012 Big Star</copyright>
+    <copyright>2021 Big Star</copyright>
    
     <tags>wordfrequency parse text</tags>
     <summary>Count the number of words in a text file.</summary>
-    <description></description>WordFrequency is an example word counting utilty.
+    <description>WordFrequency is an example word counting utilty.
 It is intended as sample appplication to for LinkedIn Learning courses.</description>
    
 
-   
-    </dependencies>-->
     <!-- chocolatey-core.extension - https://chocolatey.org/packages/chocolatey-core.extension
          - You want to use Get-UninstallRegistryKey on less than 0.9.10 (in chocolateyUninstall.ps1)
          - You want to use Get-PackageParameters and on less than 0.11.0
